@@ -1,7 +1,7 @@
 ---
 title: RSer Chen
-role: Professor of Artificial Intelligence
-avatar_filename: 微信图片_20220913171618.jpg
+role: PhD Student in Engineering
+avatar_filename: me.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
