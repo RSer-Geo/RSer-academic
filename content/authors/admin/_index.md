@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Chang an University
+    url: https://www.chd.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
