@@ -1,8 +1,6 @@
 ---
-title:  | 
-  | RSer Chen    
-  | 陈毅
-  
+title:  RSer Chen<br>    
+陈毅
 role: PhD Student in Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
